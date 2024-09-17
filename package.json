@@ -9,9 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/cache": "^11.13.1",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.0.2",
+    "@mui/material": "^6.0.1",
+    "@mui/material-nextjs": "^6.0.1",
+    "bootstrap": "^5.3.3",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.6.1",
+    "next": "14.2.7",
+    "next-auth": "^5.0.0-beta.20",
     "react": "^18",
+    "react-bootstrap": "^2.10.4",
     "react-dom": "^18",
-    "next": "14.2.7"
+    "react-hook-form": "^7.53.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "eslint": "^8",
